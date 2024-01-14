@@ -12,7 +12,7 @@
 
     노량진(지하철 20분, 도보 15분)
 
-![Commuting](./commuting.JPG)
+![Commuting](./commuting.jpg)
 
 ✔ MBTI
 
