@@ -1,4 +1,4 @@
-<span style="font-size:500%">
+<span style="font-size:5%">
 
 # 📝 프로필
 
