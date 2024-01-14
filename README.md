@@ -11,6 +11,7 @@
 ✔ 거주지
 
     노량진(지하철 20분, 도보 15분)
+
 ![Commuting](./commuting.jpg)
 
 ✔ MBTI
@@ -73,8 +74,7 @@
 
 # 💻 개발 경험(2년 전)
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 ✔ 토이프로젝트 - 테트리스
 
