@@ -76,7 +76,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-✔ 토이프로젝트로 테트리스
+✔ 토이프로젝트 - 테트리스
 
 ![Tetris](./tetris.jpg)
 
